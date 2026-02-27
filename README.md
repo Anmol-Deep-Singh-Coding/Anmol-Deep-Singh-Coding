@@ -1,12 +1,12 @@
 # 👋 Anmol Deep Singh  
 
-# 🎓 Education
+#🎓 Education
 Bachelor of Engineering (B.E.) in Computer Science Engineering<br>Chandigarh College of Engineering and Technology (CCET)<br>📍 Chandigarh, India<br>📅 Currently Pursuing<br>
-# 👨‍💻 About Me
+#👨‍💻 About Me
 <br>I am a Computer Science Engineering student at CCET with a strong interest in software development, data structures, and cloud computing.<br><br>I enjoy building practical and scalable applications using modern technologies like React, TypeScript, and Supabase.<br><br>My goal is to become a skilled full-stack developer with strong problem-solving abilities and system design knowledge.<br>
-# 🔍 Areas of Interest
+#🔍 Areas of Interest
 <br>Data Structures & Algorithms (C++)<br><br>Full Stack Web Development<br><br>Cloud Computing (AWS)<br><br>Database Systems<br><br>Data Visualization & EDA<br><br>Backend System Design<br>
-# 💡 Strengths
+#💡 Strengths
 <br>Strong logical and analytical thinking<br><br>Focus on understanding concepts deeply<br><br>Continuous learner<br><br>Practical implementation approach
 
 
@@ -23,18 +23,6 @@ Bachelor of Engineering (B.E.) in Computer Science Engineering<br>Chandigarh Col
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anmol-Deep-Singh-Coding&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🚀 Top Contributed Repository
-![Top Repo](https://github-contributor-stats.vercel.app/api?username=Anmol-Deep-Singh-Coding&limit=1&theme=radical&combine_all_yearly_contributions=true)
-
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Anmol-Deep-Singh-Coding&show_icons=true&theme=radical&cache_seconds=1800)
-
-## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-Deep-Singh-Coding&layout=compact&theme=radical)
-
-
-## 📈 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anmol-Deep-Singh-Coding&theme=react-dark)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
